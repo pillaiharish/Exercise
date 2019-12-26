@@ -22,10 +22,20 @@ $  git remote add origin https://github.com/pillaiharish/
 
 $  git add datacamp/
 $  git commit
-$  git add datacamp/
-$  git commit
 $  git push -u origin master
+-----------------------------------
+###############deletion######################
+Since git is a distributed VCS, your local repository contains all of the information. No downloading is necessary; you just need to extract the content you want from the repo at your fingertips.
 
+If you haven't committed the deletion, just check out the files from your current commit:
+
+$ git checkout HEAD <path>
+
+If you have committed the deletion, you need to check out the files from a commit that has them. Presumably it would be the previous commit:
+
+$ git checkout HEAD^ <path>
+
+but if it's n commits ago, use HEAD~n, or simply fire up gitk, find the SHA1 of the appropriate commit, and paste it in.
 
 other git commands
 $ git pull
@@ -34,3 +44,5 @@ $ git status
 $ eval $(ssh-agent -s)
 $ ssh-add -l
 $ git remote -v
+$ git checkout git_win/git_initial 
+
