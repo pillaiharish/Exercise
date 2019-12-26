@@ -1,0 +1,36 @@
+A)first make a repo in github manually
+B)configure the device using ssh. go to settings in github and paste the rsa(or any encryption file contents) to ssh and gpg keys, add to ssh keys.
+
+$ ssh -T git@github.com
+if no clone command used then initialize the folder on local for git.
+$ git init 
+
+$ ssh-keygen -t rsa -b 4096 -C "harishpillai1994@gmail.com"
+
+after the above command you would get a file on your local folder, with the paraphrase used earlier just open with notepad, copy the entire content to mentioned in step(B)
+
+C) create a repo in github or 
+D) create repo in local then commit to github
+
+for step(C)
+1)create github repo manually in github/your_profilename 
+2)clone the repo on local
+$ git clone https://github.com/pillaiharish/Exercise
+
+3)then create files required, then 'add' to local repo of git, 'commit' them locally then use 'git push'. For 'push' you need origin reference to the remote(server) location of the master
+$  git remote add origin https://github.com/pillaiharish/
+
+$  git add datacamp/
+$  git commit
+$  git add datacamp/
+$  git commit
+$  git push -u origin master
+
+
+other git commands
+$ git pull
+$ git log
+$ git status
+$ eval $(ssh-agent -s)
+$ ssh-add -l
+$ git remote -v
