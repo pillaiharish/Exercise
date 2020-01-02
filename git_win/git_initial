@@ -62,3 +62,4 @@ $ git config --global core.autocrlf input
 
 If you’re a Windows programmer doing a Windows-only project, then you can turn off this functionality, recording the carriage returns in the repository by setting the config value to false:
 $ git config --global core.autocrlf false
+$ git add datacamp/timeseriesanalysis/ && git commit -m "removed merge conflicts"
