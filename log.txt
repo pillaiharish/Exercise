@@ -1,49 +1,3 @@
-  218   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/1.ValidateCardView.js 
-  219   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/1.ValidateCardView.js 
-  220   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/1.ValidateCardView.js 
-  221   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/1.ValidateCardView.js 
-  222   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/1.ValidateCardView.js 
-  223   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/1.ValidateCardView.js 
-  224   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/1.ValidateCardView.js 
-  225   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/1.ValidateCardView.js 
-  226   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/1.ValidateCardView.js 
-  227   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/4.Scenarios.js 
-  228   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/4.Scenarios.js 
-  229   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/4.Scenarios.js 
-  230   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/4.Scenarios.js 
-  231   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/4.Scenarios.js 
-  232   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/4.Scenarios.js 
-  233   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/1.ValidateCardView.js 
-  234   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/2.SimpleSort\ .js 
-  235   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  236   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  237   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/2.SimpleSort\ .js 
-  238   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/2.SimpleSort\ .js 
-  239   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/30.TextAlignment/1.TextAlignment.js 
-  240   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/30.TextAlignment/1.TextAlignment.js 
-  241  python3
-  242  python
-  243  ojet serve
-  244  ojet serve
-  245  ojet
-  246  ojet restore
-  247  export HTTP_PROXY=http://www-proxy.us.oracle.com:80
-  248  export HTTPs_PROXY=http://www-proxy.us.oracle.com:80
-  249  ojet add
-  250  ojet build
-  251  ojet restore
-  252  ojet build
-  253  ojet build
-  254  ojet serve
-  255   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/6.Scenarios2.js 
-  256   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/6.Scenarios2.js 
-  257   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/6.Scenarios2.js 
-  258   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/6.Scenarios2.js 
-  259   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/6.Scenarios2.js 
-  260  export HTTP_PROXY=http://www-proxy.us.oracle.com:80
-  261  export HTTPs_PROXY=http://www-proxy.us.oracle.com:80
-  262  npm install -g eslint
-  263   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/6.Scenarios2.js 
   264   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/6.Scenarios2.js 
   265  ./node_modules/.bin/selenium-standalone start
   266  index.js
@@ -56,75 +10,6 @@
   273  curl localhost:3001/fetchERdata -i
   274  curl localhost:3001/fetchERdata -i
   275  curl localhost:3001/fetchERdata -i
-  276  ./node_modules/.bin/selenium-standalone start
-  277  npm init
-  278   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/6.Scenarios2.js 
-  279   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/6.Scenarios2.js 
-  280   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/6.Scenarios2.js 
-  281   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/6.Scenarios2.js 
-  282   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/6.Scenarios2.js 
-  283  npm install --save-dev eslint-config-rallycoding
-  284  export HTTP_PROXY=http://www-proxy.us.oracle.com:80
-  285  export HTTPs_PROXY=http://www-proxy.us.oracle.com:80
-  286  npm install --save-dev eslint-config-rallycoding
-  287   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/5.Views.js 
-  288   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/5.Views.js 
-  289  ./node_modules/.bin/selenium-standalone start
-  290   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/5.Views.js 
-  291   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/5.Views.js 
-  292   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/7.Scenarios3.js 
-  293   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/7.Scenarios3.js 
-  294   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/7.Scenarios3.js 
-  295   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/7.Scenarios3.js 
-  296   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/7.Scenarios3.js 
-  297   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/7.Scenarios3.js 
-  298   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/7.Scenarios3.js 
-  299   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/7.Scenarios3.js 
-  300   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts
-  301   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/6.Scenarios2.js 
-  302   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/6.Scenarios2.js 
-  303   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/6.Scenarios2.js 
-  304   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/5.Views.js 
-  305   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/13.ViewManager/4.Scenarios.js 
-  306   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\
-  307   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/6.Single_Cell_to_multiple_cell.js 
-  308   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/6.Single_Cell_to_multiple_cell.js 
-  309   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/7.Pivot_Table_Cut_Copy.js 
-  310   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/7.Pivot_Table_Cut_Copy.js 
-  311   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/7.Pivot_Table_Cut_Copy.js 
-  312   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/7.Pivot_Table_Cut_Copy.js 
-  313   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/7.Pivot_Table_Cut_Copy.js 
-  314   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/7.Pivot_Table_Cut_Copy.js 
-  315   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/7.Pivot_Table_Cut_Copy.js 
-  316   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/8.cuthorizontalcells.js 
-  317   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/8.cuthorizontalcells.js 
-  318   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/8.cuthorizontalcells.js 
-  319   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/8.cuthorizontalcells.js 
-  320   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/8.cuthorizontalcells.js 
-  321   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/7.Pivot_Table_Cut_Copy.js 
-  322   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/8.cuthorizontalcells.js 
-  323   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/9.Unequalcutpaste.js 
-  324   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/9.Unequalcutpaste.js 
-  325   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/9.Unequalcutpaste.js 
-  326   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/10.Pivottablecells.js 
-  327   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/10.Pivottablecells.js 
-  328   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/10.Pivottablecells.js 
-  329   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/10.Pivottablecells.js 
-  330   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/10.Pivottablecells.js 
-  331   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/10.Pivottablecells.js 
-  332   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/7.Pivot_Table_Cut_Copy.js 
-  333   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/7.Pivot_Table_Cut_Copy.js 
-  334  pip install tensorflow
-  335  export HTTP_PROXY=http://www-proxy.us.oracle.com:80
-  336  export HTTPs_PROXY=http://www-proxy.us.oracle.com:80
-  337  export HTTPs_PROXY=http://www-proxy.us.oracle.com:80
-  338  pip install tensorflow
-  339  ./node_modules/.bin/selenium-standalone start
-  340  python3
-  341  python3
-  342  python
-  343  export HTTPs_PROXY=http://www-proxy.us.oracle.com:80
-  344  export HTTP_PROXY=http://www-proxy.us.oracle.com:80
   345  pip install tensorflow-cpu
   346  pip install plumbum
   347  pip install tensorflow-cpu
@@ -132,15 +17,11 @@
   349  pip install tensorflow
   350  pip install tensorflow-cpu
   351  tensorflow --version
-  352  export HTTPs_PROXY=http://www-proxy.us.oracle.com:80
-  353  export HTTP_PROXY=http://www-proxy.us.oracle.com:80
   354  pip install tensorflow-cpu
   355  python
   356  python3
   357  pip3 install tensorflow
   358  pip3 install tensorflow-cpu
-  359  export HTTPs_PROXY=http://www-proxy.us.oracle.com:80
-  360  export HTTP_PROXY=http://www-proxy.us.oracle.com:80
   361  pip install tensorflow
   362  pip install tensorflow
   363  pip install tensor-flow
@@ -148,13 +29,7 @@
   365  pip install tensorflow
   366  pip --version
   367  pip install tf-nightly
-  368  export HTTPs_PROXY=http://www-proxy.us.oracle.com:80
-  369  export HTTP_PROXY=http://www-proxy.us.oracle.com:80
   370  pip install tensorflow
-  371  pip install tensorflow
-  372  export HTTPs_PROXY=http://www-proxy.us.oracle.com:80
-  373  export HTTP_PROXY=http://www-proxy.us.oracle.com:80
-  374  pip install tf-nightly
   375  tensorflow --version
   376  python3
   377  jupyter notebook
@@ -195,92 +70,8 @@
   412  pip install matplotlib
   413  jupyter notebook
   414  python
-  415   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts
-  416  cd ~/RetailAppsJetPlatformAutomation
-  417   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  418   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  419   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  420   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  421   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  422   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  423   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  424   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  425   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  426   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  427   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  428  npm run spec ./test/EdgeTestScripts/Mainline/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  429   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  430   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  431   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  432   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  433   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  434   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  435   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  436   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  437   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  438   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  439   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  440   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  441   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  442   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  443   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  444   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  445   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  446  cd ~/RetailAppsJetPlatformAutomation
-  447   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  448   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  449   npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  450   npm run spec ./test/EdgeTestScripts/19.0.x\ kaizen/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  451   npm run spec ./test/EdgeTestScripts/19.0.x\ kaizen/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  452   npm run spec ./test/EdgeTestScripts/19.0.x\ kaizen/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  453   npm run spec ./test/EdgeTestScripts/19.0.x\ kaizen/Edge\ Test\ Scripts/24.Sorting/11.SimpleSort.js 
-  454   npm run spec ./test/EdgeTestScripts/19.0.x\ kaizen/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/9.Unequalcutpaste.js 
-  455  npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/9.Unequalcutpaste.js 
-  456  npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/9.Unequalcutpaste.js 
-  457  npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/9.Unequalcutpaste.js 
-  458  npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/9.Unequalcutpaste.js 
-  459  npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/9.Unequalcutpaste.js 
-  460  npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/9.Unequalcutpaste.js 
-  461  npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/9.Unequalcutpaste.js 
-  462  npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/9.Unequalcutpaste.js 
-  463  npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/15.PivotTable_Cut_Copy_Paste_Cells/9.Unequalcutpaste.js 
-  464  cd ~/RetailAppsJetPlatformAutomation
-  465  npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/3.AssortedCardDef.js 
-  466  npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/3.AssortedCardDef.js 
-  467  npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/3.AssortedCardDef.js 
-  468  npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/3.AssortedCardDef.js 
-  469  npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/3.AssortedCardDef.js 
-  470  npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/3.AssortedCardDef.js 
-  471  npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/3.AssortedCardDef.js 
-  472  npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/3.AssortedCardDef.js 
-  473  npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/3.AssortedCardDef.js 
-  474  npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/3.AssortedCardDef.js 
-  475  npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/3.AssortedCardDef.js 
-  476  npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/3.AssortedCardDef.js 
-  477  export HTTPs_PROXY=http://www-proxy.us.oracle.com:80
-  478  export HTTP_PROXY=http://www-proxy.us.oracle.com:80
-  479  npm install wdio-screenshot --save-dev
-  480  export HTTP_PROXY=http://www-proxy.us.oracle.com:80
-  481  export HTTP_PROXY=http://www-proxy.us.oracle.com:80
-  482  export HTTPs_PROXY=http://www-proxy.us.oracle.com:80
   483  npm install phantom --save
   484  npm install wdio-screenshot --save-dev
-  485  npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/3.AssortedCardDef.js 
-  486  npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/3.AssortedCardDef.js 
-  487  npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/3.AssortedCardDef.js 
-  488  cd ~/RetailAppsJetPlatformAutomation
-  489  npm run spec ./test/EdgeTestScripts/Selenium_Dev_Scripts/Edge\ Test\ Scripts/29.CardView/3.AssortedCardDef.js 
-  490  npm run spec ./test/EdgeTestScripts/19.0.x\ kaizen/Edge\ Test\ Scripts/29.CardView/3.AssortedCardDef.js 
-  491  npm run spec ./test/EdgeTestScripts/19.0.x\ kaizen/Edge\ Test\ Scripts/29.CardView/3.AssortedCardDef.js 
-  492  npm run spec ./test/EdgeTestScripts/19.0.x\ kaizen/Edge\ Test\ Scripts/29.CardView/2.ValidateCardView.js
-  493  cd ~/RetailAppsJetPlatformAutomation
-  494  npm run spec ./test/EdgeTestScripts/19.0.x\ kaizen/Edge\ Test\ Scripts/29.CardView/4.PTAssorted.js 
-  495  npm run spec ./test/EdgeTestScripts/19.0.x\ kaizen/Edge\ Test\ Scripts/29.CardView/4.PTAssorted.js 
-  496  npm run spec ./test/EdgeTestScripts/19.0.x\ kaizen/Edge\ Test\ Scripts/29.CardView/3.AssortedCardDef.js 
-  497  npm run spec ./test/EdgeTestScripts/19.0.x\ kaizen/Edge\ Test\ Scripts/29.CardView/4.PTAssorted.js 
-  498  cd ~/RetailAppsJetPlatformAutomation
-  499  npm run spec ./test/EdgeTestScripts/19.0.x\ kaizen/Edge\ Test\ Scripts/29.CardView/3.AssortedCardDef.js 
-  500  ./node_modules/.bin/selenium-standalone start
   501  ssh -T git@github.com
   502  ssh -T git@github.com
   503  ssh -vT git@github.com
@@ -288,7 +79,7 @@
   505  ssh -T git@github.com
   506  eval "$(ssh-agent -s)"
   507  ssh-add -l
-  508  ssh-keygen -t rsa -b 4096 -C "harishpillai1994@gmail.com"
+  508  ssh-keygen -t rsa -b 4096 -C "mygmail@gmail.com"
   509  cd git
   510  ls
   511  history
@@ -297,7 +88,7 @@
   514  eval "$(ssh-agent -s)"
   515  eval $(ssh-agent -s)
   516  ssh-add -l
-  517  ssh-keygen -t rsa -b 4096 -C "harishpillai1994@gmail.com"
+  517  ssh-keygen -t rsa -b 4096 -C "mygmail@gmail.com"
   518  eval $(ssh-agent -s)
   519  eval "$(ssh-agent -s)"
   520  notepad ~/.profile
@@ -308,12 +99,10 @@
   525  eval $(ssh-agent -s)
   526  ssh-add -l
   527  git remote -v
-  528  git remote -v
   529  git commit
   530  git add R/modified.R man/modified.Rd
   531  git commit
   532  git status
-  533  git status
   534  git add test.txt 
   535  git commit
   536  git push
@@ -410,8 +199,6 @@
   627  git commit .
   628  git status
   629  git pull
-  630  export HTTP_PROXY=http://www-proxy.us.oracle.com:80
-  631  export HTTPs_PROXY=http://www-proxy.us.oracle.com:80
   632  git pull
   633  git .add
   634  git add .
