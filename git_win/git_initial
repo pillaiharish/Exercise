@@ -1,3 +1,21 @@
+whenever you create a branch create it from the master, coz branch creation takes exact copy of the branch that you are currently working on (during branch creation). 
+$ git checkout master //perform before branch creation if you wanna replicate the master branch.
+
+Changes in branch are reflected on particular branch only.
+to create a branch from gitbash which doesnot exist
+$ git branch "branchname_w/o_quotes"
+
+to switch to newly added branch 'new_branch'
+$ git checkout new_branch
+
+now whatever changes you make will be in the branch and master will not contain those changes
+to commit on the branch new_branch without performing 'git add' and writing a message
+$ git commit -am "this is commit message"
+
+
+to create a branch which doesnot exist from gitbash(below will add a )
+$ git checkout -b feature/new-feature
+--------------------------------------------------------------
 A)first make a repo in github manually
 B)configure the device using ssh. go to settings in github and paste the rsa(or any encryption file contents) to ssh and gpg keys, add to ssh keys.
 
